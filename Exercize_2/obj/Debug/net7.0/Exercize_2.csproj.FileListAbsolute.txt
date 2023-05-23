@@ -1,0 +1,15 @@
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\bin\Debug\net7.0\Exercize_2.exe
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\bin\Debug\net7.0\Exercize_2.deps.json
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\bin\Debug\net7.0\Exercize_2.runtimeconfig.json
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\bin\Debug\net7.0\Exercize_2.dll
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\bin\Debug\net7.0\Exercize_2.pdb
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\Exercize_2.csproj.AssemblyReference.cache
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\Exercize_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\Exercize_2.AssemblyInfoInputs.cache
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\Exercize_2.AssemblyInfo.cs
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\Exercize_2.csproj.CoreCompileInputs.cache
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\Exercize_2.dll
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\refint\Exercize_2.dll
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\Exercize_2.pdb
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\Exercize_2.genruntimeconfig.cache
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_2\obj\Debug\net7.0\ref\Exercize_2.dll

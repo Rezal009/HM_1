@@ -1,0 +1,15 @@
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\bin\Debug\net7.0\Exercize_3.exe
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\bin\Debug\net7.0\Exercize_3.deps.json
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\bin\Debug\net7.0\Exercize_3.runtimeconfig.json
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\bin\Debug\net7.0\Exercize_3.dll
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\bin\Debug\net7.0\Exercize_3.pdb
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\Exercize_3.csproj.AssemblyReference.cache
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\Exercize_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\Exercize_3.AssemblyInfoInputs.cache
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\Exercize_3.AssemblyInfo.cs
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\Exercize_3.csproj.CoreCompileInputs.cache
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\Exercize_3.dll
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\refint\Exercize_3.dll
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\Exercize_3.pdb
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\Exercize_3.genruntimeconfig.cache
+C:\Users\User16\Desktop\Lesson_C#_1\New 2\HM_1\Exercize_3\obj\Debug\net7.0\ref\Exercize_3.dll
